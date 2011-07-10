@@ -1,0 +1,54 @@
+--------------------------------Vanguard Index---------------------------------
+Symbol  Name                                  Type         Turnover    Expenses
+VFINX   Vanguard 500 Index                    Large Blend      5.0%       0.17%
+VIVAX   Vanguard Value Index                  Large Value     27.0%       0.26%
+NAESX   Vanguard Small Cap Index              Small Blend     12.0%       0.26%
+VISVX   Vanguard Small Cap Value Index        Small Value     25.0%       0.26%
+VGSIX   Vanguard REIT Index                   Mid Blend       12.0%       0.26%
+VDMIX   Vanguard Developed Markets Index      Large Blend     13.0%       0.22%
+VTRIX   Vanguard International Value          Large Value     51.0%       0.39%
+VFSVX   Vanguard FTSE All-Wld ex-US SmCp Idx  Mid Blend       19.0%       0.55%
+-----   N/A                                   -----------     -----       -----
+VEIEX   Vanguard Emerging Mkts Stock Idx      Large Blend     12.0%       0.35%
+
+----------------------------------DFA Index------------------------------------
+Symbol  Name                                  Type         Turnover    Expenses
+DFUSX   DFA US Large Company                  Large Blend      1.0%       0.10%
+DFLVX   DFA US Large Cap Value                Large Value     28.0%       0.28%
+DFSCX   DFA US Micro Cap I                    Small Growth     9.0%       0.52%
+DFSVX   DFA US Small Cap Value I              Small Value     19.0%       0.52%
+DFREX   DFA Real Estate Securities I          Mid Blend        2.0%       0.33%
+DFALX   DFA Large Cap International I         Large Blend      7.0%       0.30%
+DFIVX   DFA Intl Value I                      Large Value     20.0%       0.45%
+DFISX   DFA Intl Small Company I              Small Blend      0.0%       0.45%
+DISVX   DFA Intl Small Cap Value I            Small Value     18.0%       0.70%
+DFCEX   DFA Emerging Markets Core Equity I    Large Value      4.0%       0.65%
+
+--------------------------------Fidelity Funds---------------------------------
+Symbol  Name                                  Type         Turnover    Expenses
+                                ----Large----
+FBGKX   FID BLUE CHIP GR K                    Large Growth   135.0%       0.74%
+FCNKX   FID CONTRAFUND K                      Large Growth    46.0%       0.78%
+FGIKX   FID GROWTH & INC K                    Large Blend     98.0%       0.53%
+FSLVX   FID LARGE CAP VALUE                   Large Value    120.0%       0.72%
+MEIJX   MFS VALUE R4                          Large Blend     22.0%       0.73%
+FUSEX   SPTN 500 INDEX INV                    Large Blend      4.0%       0.10%
+PRDGX   TRP DIV GROWTH                        Large Blend     15.9%       0.68%
+                                -----Mid-----
+FDEGX   FID GROWTH STRAT                      Mid Growth     116.0%       0.77%
+FLCKX   FID LEVERGD CO STK K                  Mid Blend       21.0%       0.69%
+FVLKX   FID VALUE K                           Mid Blend      148.0%       0.46%
+JMCVX   PERKINS MID CP VAL T                  Mid Blend       66.0%       1.03%
+VIMSX   VANG MID CAP IDX INV                  Mid Blend       16.0%       0.26%
+                                ----Small----
+FSCRX   FID SM CAP DISCOVERY                  Small Blend     11.0%       1.04%
+RYOFX   ROYCE OPPORTUNITY S                   Small Value     47.0%       1.46%
+RSPFX   RS PARTNERS A                         Mid Growth      61.0%       1.49%
+                                ---Foreign---
+FIDKX   FID INTL DISCOVERY K                  Large Growth    82.0%       0.79%
+FOSKX   FID OVERSEAS K                        Large Blend    111.0%       0.66%
+VGTSX   VANG TOTAL INTL STK                   Large Blend      6.0%       0.26%
+                                ----Bonds----
+FTHRX   FID INTERMED BOND                     Intermediate   115.0%       0.45%
+PTTRX   PIM TOTAL RT INST                     Intermediate   430.0%       0.46%
+
