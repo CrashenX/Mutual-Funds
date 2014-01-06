@@ -1,92 +1,121 @@
---------------------------------Vanguard Index---------------------------------
-Symbol  Name                              Type         Turnover  Expenses  My %
-VFINX   Vanguard 500                      Large Blend      5.0%     0.17%  401k
-VIVAX   Vanguard Value                    Large Value     27.0%     0.26%  ----
-NAESX   Vanguard Small Cap                Small Blend     12.0%     0.26%  ----
-VISVX   Vanguard Small Cap Value          Small Value     25.0%     0.26%  401k
-VGSIX   Vanguard REIT Index               Mid Blend       12.0%     0.26%  10.0
-VDMIX   Vanguard Developed Markets        Large Blend     13.0%     0.22%  ----
-VTRIX   Vanguard International Value      Large Value     51.0%     0.39%   DFA
-VFSVX   Vanguard FTSE All-Wld ex-US SmCp  Mid Blend       19.0%     0.55%  20.0
------   N/A                               Sm/Mid Value    -----     -----  ----
-VEIEX   Vanguard Emerging Mkts Stock      Large Blend     12.0%     0.35%  10.0
+--------------------------------Vanguard Index-------------------------------
+Symbol  Name                              Type         Turnover  Expenses   %
+VFINX   Vanguard 500                      Large Blend      3.0%     0.17%  10
+VIVAX   Vanguard Value                    Large Value     22.0%     0.24%  10
+NAESX   Vanguard Small Cap                Small Blend     14.0%     0.24%  10
+VISVX   Vanguard Small Cap Value          Small Value     25.0%     0.24%  10
+VGSIX   Vanguard REIT Index               Mid Blend        9.0%     0.24%  10
+VDMIX   Vanguard Developed Markets        Large Blend      8.0%     0.20%  10
+VTRIX   Vanguard International Value      Large Blend     53.0%     0.40%  20
+VFSVX   Vanguard FTSE All-Wld ex-US SmCp  Mid Blend       18.0%     0.45%  10
+-----   N/A                               Sm/Mid Value    -----     -----  --
+VEIEX   Vanguard Emerging Mkts Stock      Large Blend      8.0%     0.33%  10
 
---------------------------------Vanguard Bonds---------------------------------
-Symbol  Name                              Type         Turnover  Expenses  My %
-VFITX   Vanguard Interm-Term Treasury     Int Govt        80.0%     0.22%  ----
-VFISX   Vanguard Short-Term Treasury      Short Govt     124.0%     0.22%  ----
-VIPSX   Vanguard Inflation-Protected Secs TIPS            29.0%     0.22%  ----
+--------------------------------Vanguard Bonds-------------------------------
+Symbol  Name                              Type         Turnover  Expenses   %
+VFISX   Vanguard Short-Term Treasury      Short Govt      34.0%     0.20%  30
+VFITX   Vanguard Interm-Term Treasury     Interm Govt     80.0%     0.22%  50
+VIPSX   Vanguard Inflation-Protected Secs Inflat-Prot     33.0%     0.20%  20
 
-----------------------------------DFA Index------------------------------------
-Symbol  Name                              Type         Turnover  Expenses  My %
-DFUSX   DFA US Large Company              Large Blend      1.0%     0.10%  ----
-DFLVX   DFA US Large Cap Value            Large Value     28.0%     0.28%  ----
-DFSCX   DFA US Micro Cap I                Small Growth     9.0%     0.52%  ----
-DFSVX   DFA US Small Cap Value I          Small Value     19.0%     0.52%  ----
-DFREX   DFA Real Estate Securities I      Mid Blend        2.0%     0.33%  ----
-DFALX   DFA Large Cap International I     Large Blend      7.0%     0.30%  ----
-DFIVX   DFA Intl Value I                  Large Value     20.0%     0.45%  401k
-DFISX   DFA Intl Small Company I          Small Blend      0.0%     0.45%  ----
-DISVX   DFA Intl Small Cap Value I        Small Value     18.0%     0.70%  ----
-DFCEX   DFA Emerging Mrkts Core Equity I  Large Value      4.0%     0.65%  ----
+----------------------------------DFA Index----------------------------------
+Symbol  Name                              Type         Turnover  Expenses   %
+DFUSX   DFA US Large Company              Large Blend      1.0%     0.10%  10
+DFLVX   DFA US Large Cap Value            Large Value     28.0%     0.28%  10
+DFSCX   DFA US Micro Cap I                Small Growth     9.0%     0.52%  10
+DFSVX   DFA US Small Cap Value I          Small Value     19.0%     0.52%  10
+DFREX   DFA Real Estate Securities I      Mid Blend        2.0%     0.33%  10
+DFALX   DFA Large Cap International I     Large Blend      7.0%     0.30%  10
+DFIVX   DFA Intl Value I                  Large Value     20.0%     0.45%  10
+DFISX   DFA Intl Small Company I          Small Blend      0.0%     0.45%  10
+DISVX   DFA Intl Small Cap Value I        Small Value     18.0%     0.70%  10
+DFCEX   DFA Emerging Mrkts Core Equity I  Large Value      4.0%     0.65%  10
 
---------------------------------Fidelity 401k----------------------------------
-Symbol  Name                              Type         Turnover  Expenses  My %
+-------------------------------Fidelity Index--------------------------------
+Symbol  Name                              Type         Turnover  Expenses   %
+FUSEX   Fidelity Spartan 500              Large Blend      4.0%     0.10%  11
+FLVEX   Fidelity Large Cap Value Enhanced Large Value     76.0%     0.45%  11
+FSSPX   Fidelity Spartan Small Cap        Small Blend     11.0%     0.29%  11
+FCPVX   Fidelity Small Cap Value          Small Value     29.0%     1.06%  12
+FRXIX   Fidelity Spartan Real Estate      Mid Blend       44.0%     0.25%   5
+FSIIX   Fidelity Spartan International    Large Blend      1.0%     0.20%   9
+FIVLX   Fidelity International Value      Large Value     74.0%     1.10%  18
+FSCOX   Fidelity International Small Opp  Mid Growth      28.0%     1.39%   9
+FPEMX   Fidelity Spartan Emerging Markets Large Blend     62.0%     0.33%   9
+FIREX   Fidelity International Real Est   Mid Blend       78.0%     1.14%   5
+
+--------------------------------Vanguard Bonds-------------------------------
+Symbol  Name                              Type         Turnover  Expenses   %
+FIBIX   Fidelity Spartan Intermediate Trm Interm Govt     54.0%     0.20%  50
+FSBIX   Fidelity Spartan Short-Term Bond  Short Govt      56.0%     0.20%  30
+FIPBX   Fidelity Spartan Inflation‐Prot   Inf Prot Bond   54.0%     0.07%  20
+
+--------------------------------Fidelity 401k--------------------------------
+Symbol  Name                              Type         Turnover  Expenses   %
                                 ----Large----
-FBGKX   FID BLUE CHIP GR K                Large Growth   135.0%     0.74%  ----
-FCNKX   FID CONTRAFUND K                  Large Growth    46.0%     0.78%  ----
-FGIKX   FID GROWTH & INC K                Large Blend     98.0%     0.53%  ----
-FSLVX   FID LARGE CAP VALUE               Large Value    120.0%     0.72%  ----
-MEIJX   MFS VALUE R4                      Large Blend     22.0%     0.73%  ----
-PRDGX   TRP DIV GROWTH                    Large Blend     15.9%     0.68%  ----
-FUSEX   SPTN 500 INDEX INV                Large Blend      4.0%     0.10%  20.0
-                                                                           +R/4
+FBGKX   FID BLUE CHIP GR K                Large Growth    75.0%     0.61%  --
+FCNKX   FID CONTRAFUND K                  Large Growth    48.0%     0.63%  --
+FGIKX   FID GROWTH & INC K                Large Blend     49.0%     0.54%  --
+FSLVX   FID LARGE CAP VALUE               Large Value     63.0%     0.57%  --
+MEIJX   MFS VALUE R4                      Large Blend     12.0%     0.71%  --
+PRDGX   TRP DIV GROWTH                    Large Blend     12.0%     0.67%  --
+FUSVX   SPTN 500 INDEX ADVTG              Large Blend      4.0%     0.06%  --
                                 -----Mid-----
-FDEGX   FID GROWTH STRAT                  Mid Growth     116.0%     0.77%  ----
-FLCKX   FID LEVERGD CO STK K              Mid Blend       21.0%     0.69%  ----
-FVLKX   FID VALUE K                       Mid Blend      148.0%     0.46%  ----
-JMCVX   PERKINS MID CP VAL T              Mid Blend       66.0%     1.03%  ----
-VIMSX   VANG MID CAP IDX INV              Mid Blend       16.0%     0.26%   R/4
+FDEGX   FID GROWTH STRAT                  Mid Growth     116.0%     0.73%  --
+FLCKX   FID LEVERGD CO STK K              Large Value     21.0%     0.69%  --
+FSDAX   FID SEL DEFENSE                   Large Growth    56.0%     0.84%  --
+FVLKX   FID VALUE K                       Mid Blend      148.0%     0.54%  --
+JMCVX   PERKINS MID CP VAL T              Mid Blend       66.0%     0.77%  --
+VIMSX   VANG MID CAP IDX INV              Mid Growth      16.0%     0.24%  --
                                 ----Small----
-FSCRX   FID SM CAP DISCOVERY              Small Blend     11.0%     1.04%  ----
-RYOFX   ROYCE OPPORTUNITY S               Small Value     47.0%     1.46%  ----
-RSPFX   RS PARTNERS A                     Mid Growth      61.0%     1.49%  ----
+FSCRX   FID SM CAP DISCOVERY              Small Blend     26.0%     1.05%  --
+RYOFX   ROYCE OPPORTUNITY S               Small Value     34.0%     1.49%  --
+RSPFX   RS PARTNERS A                     Small Blend     39.0%     1.49%  --
                                 ---Foreign---
-FIDKX   FID INTL DISCOVERY K              Large Growth    82.0%     0.79%  ----
-FOSKX   FID OVERSEAS K                    Large Blend    111.0%     0.66%  ----
-VGTSX   VANG TOTAL INTL STK               Large Blend      6.0%     0.26%   R/2
+FIDKX   FID INTL DISCOVERY K              Large Growth    80.0%     0.84%  --
+FOSKX   FID OVERSEAS K                    Large Growth    90.0%     0.51%  --
+VGTSX   VANG TOTAL INTL STK               Large Blend      3.0%     0.22%  --
                                 ----Bonds----
-FTHRX   FID INTERMED BOND                 Intermediate   115.0%     0.45%  ----
-PTTRX   PIM TOTAL RT INST                 Intermediate   430.0%     0.46%  ----
+FTHRX   FID INTERMED BOND                 Intermediate   118.0%     0.45%  --
+PTTRX   PIM TOTAL RT INST                 Intermediate   380.0%     0.46%  --
 
---------------------------------Vanguard 401k----------------------------------
-Symbol  Name                              Type         Turnover  Expenses  My %
+--------------------------------Vanguard 401k--------------------------------
+Symbol  Name                              Type         Turnover  Expenses   %
                                 ----Large----
-RGAEX   American Funds Growth Fund R4     Large Growth    33.0%     0.68%  ----
-VTSMX   Vanguard Total Stock Mkt          Large Blend      5.0%     0.17%   R/2
-VWNFX   Vanguard Windsor II Investor      Large Value     29.0%     0.35%  ----
-                                -----Mid-----
-GSMCX   Goldman Sachs Mid Cap Value Instl Mid Value      104.0%     0.76%  ----
-MACGX   Mrgn Stnly Inst Mid Cap Growth P  Mid Growth      23.0%     0.93%  ----
-VSEQX   Vanguard Strategic Equity         Mid Blend       60.0%     0.30%  ----
-                                ----Small----
-VISVX   Vanguard Small Cap Value Index    Small Value     25.0%     0.26%  20.0
-VSTCX   Vanguard Strategic Sm-Cap Equity  Small Blend     66.0%     0.43%  ----
-VEXPX   Vanguard Explorer                 Mid Growth      82.0%     0.49%  ----
-                                ---Foreign---
-DFIEX   DFA Intl Core Equity I            Large Value      2.0%     0.40%  ----
-DFIVX   DFA Intl Value I                  Large Value     20.0%     0.45%  20.0
-VGTSX   Vanguard Total Intl Stock         Large Blend      6.0%     0.26%   R/2
-                                ----Bonds----
-PTRAX   PIMCO Total Return Admin          Intermediate   430.0%     0.71%  ----
-                                ---Target----
-VTIVX   Vanguard Target Retirement 2045   Large Blend      6.0%     0.19%  ----
+RGAEX   American Funds Growth Fund R4     Large Growth    27.0%     0.69%  --
+VIGRX   Vanguard Growth Index Inv         Large Growth    21.0%     0.24%  --
+VTSMX   Vanguard Total Stock Mkt          Large Blend      3.0%     0.17%  --
+VWNFX   Vanguard Windsor II Investor      Large Value     22.0%     0.35%  --
+                               -----Mid-----
+GSMCX   Goldman Sachs Mid Cap Value Instl Mid Blend      103.0%     0.75%  --
+VSEQX   Vanguard Strategic Equity         Mid Blend       67.0%     0.29%  --
+VEXMX   Vanguard Extended Market Idx Inv  Small Growth    12.0%     0.24%  --
+                               ----Small----
+VISVX   Vanguard Small Cap Value Index    Small Value     25.0%     0.24%  --
+VSTCX   Vanguard Strategic Sm-Cap Equity  Small Blend     66.0%     0.38%  --
+VEXPX   Vanguard Explorer                 Small Growth    59.0%     0.49%  --
+                               ---Foreign---
+DFIEX   DFA Intl Core Equity I            Large Value      5.0%     0.40%  --
+DFIVX   DFA Intl Value I                  Large Value     14.0%     0.45%  --
+VGTSX   Vanguard Total Intl Stock         Large Blend      3.0%     0.22%  --
+                               ----Bonds----
+PTRAX   PIMCO Total Return Admin          Intermediate   380.0%     0.71%  --
+VBMFX   Vanguard Total Bond Mkt Index Inv Intermediate    80.0%     0.20%  --
+VFSTX   Vanguard S-T Investment Grade Inv Short           80.0%     0.20%  --
 
---------------------------------My Selections----------------------------------
-Symbol  Name                              Type         Turnover  Expenses  My %
-FUSEX   SPTN 500 INDEX INV                Large Blend      4.0%     0.10%  20.0
-VISVX   Vanguard Small Cap Value Index    Small Value     25.0%     0.26%  20.0
-VGSLX   Vanguard REIT Index Adm           Mid Blend       12.0%     0.12%  10.0
-DFIVX   DFA Intl Value I                  Large Value     20.0%     0.45%  20.0
-VFSVX   Vanguard FTSE All-Wld ex-US SmCp  Mid Blend       19.0%     0.55%  20.0
-VEMAX   Vanguard Emerging Mkts Stock Adm  Large Blend     12.0%     0.22%  10.0
+
+--------------------------------My Selections--------------------------------
+Symbol  Name                              Type         Turnover  Expenses   %
+FUSVX   SPTN 500 INDEX ADVTG              Large Blend      4.0%     0.06%  10
+VVIAX   Vanguard Value Idx Adm            Large Value     22.0%     0.10%  10
+
+VEXMX   Vanguard Extended Market Idx Inv  Small Growth    12.0%     0.24%  10
+VISVX   Vanguard Small Cap Value Idx Inv  Small Value     25.0%     0.24%  10
+
+VGSLX   Vanguard REIT Index Adm           Mid Blend        9.0%     0.10%  10
+
+DFIVX   DFA Intl Value I                  Large Value     14.0%     0.45%  20
+
+VGTSX   Vanguard Total Intl Stock Idx Inv Large Blend      3.0%     0.22%  10
+VFSVX   Vanguard FTSE All-Wld ex-US SmCp  Mid Blend       18.0%     0.45%  10
+
+VEMAX   Vanguard Emerging Mkts Stock Adm  Large Blend      8.0%     0.18%  10
